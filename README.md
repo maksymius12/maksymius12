@@ -1,6 +1,6 @@
 <div align="center">
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=0:5C63F1,100:C0614C&height=200&section=header&text=Serhio&fontColor=ffffff&fontSize=70&animation=fadeIn)
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:5C63F1,100:C0614C&height=200&section=header&text=Makson&fontColor=ffffff&fontSize=70&animation=fadeIn)
 
 **Student Developer · AI Engineer · Flutter & Web**
 📍 Kyiv, Ukraine

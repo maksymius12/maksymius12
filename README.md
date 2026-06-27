@@ -13,15 +13,15 @@
 
 **Front-End**
 
-![Front-End](https://skillicons.dev/icons?i=html,css,js,ts,react,flutter)
+![Front-End](https://skillicons.dev/icons?i=html,css,js,ts,flutter)
 
 **Back-End & Dev Tools**
 
-![Back-End](https://skillicons.dev/icons?i=nodejs,express,git,github,vscode,firebase)
+![Back-End](https://skillicons.dev/icons?i=nodejs,git,github,vscode,firebase)
 
 **Platforms & Tools**
 
-![Platforms](https://skillicons.dev/icons?i=vercel,supabase,figma,arduino,py)
+![Platforms](https://skillicons.dev/icons?i=supabase,figma,arduino)
 
 ---
 
